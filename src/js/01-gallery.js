@@ -3,7 +3,7 @@ import { galleryItems } from './gallery-items';
 
 console.log(galleryItems);
 
-const galleryContainer = document.querySelector('.gallery');
+const galleryContainer = document.querySelector(".gallery");
 
 function createMarkup(items) {
   return items
